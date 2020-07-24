@@ -2,7 +2,8 @@
 
 ## Kue is no longer maintained
 
-Please see e.g. [Bull](https://github.com/OptimalBits/bull) as an alternative. Thank you!
+Extension of kue with to support to Node versions < 10.
+We forked from [Bull](https://github.com/Automattic/kue)
 
 [![Build Status](https://travis-ci.org/Automattic/kue.svg?branch=master&style=flat)](https://travis-ci.org/Automattic/kue)
 [![npm version](https://badge.fury.io/js/kue.svg?style=flat)](http://badge.fury.io/js/kue)
