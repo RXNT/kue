@@ -3,7 +3,7 @@
 ## Kue is no longer maintained
 
 Extension of kue with to support to Node versions < 10.
-We forked from [Bull](https://github.com/Automattic/kue)
+We forked from [Automattic/kue](https://github.com/Automattic/kue)
 
 [![Build Status](https://travis-ci.org/Automattic/kue.svg?branch=master&style=flat)](https://travis-ci.org/Automattic/kue)
 [![npm version](https://badge.fury.io/js/kue.svg?style=flat)](http://badge.fury.io/js/kue)
