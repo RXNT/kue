@@ -1,8 +1,8 @@
 {
   "name": "rxnt-kue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extension of kue with to support to Node versions < 10",
-  "homepage": "http://automattic.github.io/kue/",
+  "homepage": "https://github.com/RXNT/kue",
   "keywords": [
     "job",
     "queue",
